@@ -1,0 +1,49 @@
+.graficossec{
+    display: flex;
+    flex-direction: row;
+    width: 450px; /* Specify the desired width */
+    height: 250px; /* Specify the desired height */
+}
+.graficoppal{
+    width: 1350px; /* Specify the desired width */
+    height: 300px; /* Specify the desired height */
+
+  }
+  .navbar-brand{
+    padding-left: 70px;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+
+  }
+
+
+  .container-fluid{
+    height: 60px;
+    background-color: rgb(166, 196, 236);
+  }
+
+  .grancontainer{
+    width: 1550px;
+    height: 600px;
+    background-color: rgb(240, 240, 240);
+    border-radius: 15px;
+    padding: 5px;
+  }
+
+  .input-group mb-3{
+    border-radius: 5px;
+  }
+
+
+  .container-fluid{
+    display:flex;
+    flex-direction: column;
+    align-content: flex-start;
+  }
+
+  .desc{
+    margin-top:5px;
+    color: rgb(176, 176, 176);
+    font-size: 25px;
+    justify-content: left;
+  }
