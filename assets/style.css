@@ -15,8 +15,6 @@
     font-size: 35px;
 
   }
-
-
   .container-fluid{
     height: 60px;
     background-color: rgb(166, 196, 236);
@@ -46,7 +44,7 @@
   .desc{
     margin-top:5px;
     color: rgb(176, 176, 176);
-    font-size: 25px;
+    font-size: 23px;
     margin-left:10px;
     justify-content: left;
   }
